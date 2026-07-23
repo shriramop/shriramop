@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @shriramop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Shri Ram
 
-<!---
-shriramop/shriramop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final Year Computer Science Engineering Student
+
+## 👨‍💻 About Me
+- 🔐 Passionate about Cybersecurity & Network Security
+- 🌐 Learning Ethical Hacking and Penetration Testing
+- 🐍 Exploring Python for Security Automation
+- 🖥️ Linux & Windows Enthusiast
+- 📚 Currently studying CCNA, Web Security, and AI
+
+## 🛠️ Skills
+- Python
+- C
+- SQL
+- Linux (Kali Linux, Ubuntu)
+- TCP/IP
+- OSI Model
+- Routing & Switching
+- Subnetting
+- DNS & DHCP
+- Wireshark
+- Nmap
+- Cisco Packet Tracer
+- Git & GitHub
+
+## 📫 Contact
+📧 qwerkrr@gmail.com
+
+⭐ Always learning. Always improving.
