@@ -11,7 +11,6 @@
 
 ## 🛠️ Skills
 - Python
-- C
 - SQL
 - Linux (Kali Linux, Ubuntu)
 - TCP/IP
@@ -25,6 +24,6 @@
 - Git & GitHub
 
 ## 📫 Contact
-📧 qwerkrr@gmail.com
+📧 sudhashriram1984@gmail.com
 
 ⭐ Always learning. Always improving.
